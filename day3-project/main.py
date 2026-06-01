@@ -22,7 +22,6 @@ ____/______/______/______/______/_____"=.o\o_.--""___/______/______/______/____
 ''')
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
-
 # Stage 1: Crossroads
 choice1 = input('\nYou\'re at a crossroads. Where do you want to go? Type "left" or "right".\n').lower()
 
@@ -48,3 +47,4 @@ if choice1 == "left":
 
 else:
     print("\nYou fell into a hole. Game Over.")
+          
