@@ -13,9 +13,8 @@
 | 2 | Tip Calculator | Data Types & Strings |
 | **3** | **Treasure Island** ← you are here | **Control Flow & Logical Operators** |
 | ... | ... | ... |
-
----
-
+_____________
+_____________
 ## 🗺️ About This Project
 
 A text-based **choose your own adventure** game built in Python. You play as an explorer trying to find hidden treasure on a mysterious island. Every choice you make leads to a different outcome — but only one path leads to victory!
